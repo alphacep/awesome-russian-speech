@@ -8,6 +8,7 @@
   * <https://github.com/GeorgeFedoseev/DeepSpeech>
   * <https://github.com/sovaai/sova-dataset>
   * <https://www.openslr.org/96/> - Russian Librispeech
+  * <https://commonvoice.mozilla.org/ru/datasets> - MCV
 
 # Синтез речи
 
@@ -66,3 +67,7 @@
   * <https://github.com/gramdict/gramdict> - современная версия словаря Зализняка
   * [ОТиПЛ — это кафедра и отделение теоретической и прикладной лингвистики филологического факультета МГУ](http://tipl.philol.msu.ru/)
   * [Лобанов Борис Мефодьевич](https://obm.bsu.by/matematiki/lobanov-boris-mefodevich/)
+  * [Русский язык на Voxforge](http://www.voxforge.org/ru)
+  * [Festlang Clunits](https://www.opennet.ru/opennews/art.shtml?num=12399)
+  * [2005 год начало работы над синтезатором Фестиваль](https://www.linux.org.ru/news/linux-general/775065?cid=776417)
+  * [CMUSphinx](https://cmusphinx.github.io/)
