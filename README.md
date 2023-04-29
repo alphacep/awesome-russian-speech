@@ -6,9 +6,12 @@
   * <https://github.com/salute-developers/golos>
   * <https://github.com/snakers4/open_stt>
   * <https://github.com/GeorgeFedoseev/DeepSpeech>
+  * <https://github.com/sovaai/sova-dataset>
+  * <https://www.openslr.org/96/> - Russian Librispeech
 
 # Синтез речи
 
+  * <https://www.caito.de/2019/01/03/the-m-ailabs-speech-dataset/> - M-AILabs dataset (from Librivox)
   * <https://ruslan-corpus.github.io/>
   * <https://github.com/sovaai/sova-tts>
   * <https://huggingface.co/bene-ges/tts_ru_hifigan_ruslan>
@@ -25,6 +28,7 @@
   * <https://github.com/Desklop/StressRNN>
   * <https://github.com/nsu-ai/russian_g2p>
   * <https://github.com/nsu-ai-team/russian_g2p_neuro>
+  * <http://aot.ru> - Источник словаря Зализняка в машинном формате 
 
 # Предобработка для синтеза
 
@@ -48,3 +52,17 @@
   * Salute Citrinet <https://github.com/salute-developers/golos>
   * FunASR Russian <https://modelscope.cn/models/damo/speech_UniASR_asr_2pass-ru-16k-common-vocab1664-tensorflow1-offline/summary>
 
+Не тестировались (похуже качеством)
+
+  * <https://github.com/sovse/base_rus_whisper_stt>
+
+# Лингвистика (списки слов, морфология)
+
+  * <http://aot.ru>
+
+# История
+
+  * [А.А. Зализняк Грамматический словарь](https://ru.wikipedia.org/wiki/%D0%93%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BB%D0%BE%D0%B2%D0%B0%D1%80%D1%8C_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D1%8F%D0%B7%D1%8B%D0%BA%D0%B0_%D0%90._%D0%90._%D0%97%D0%B0%D0%BB%D0%B8%D0%B7%D0%BD%D1%8F%D0%BA%D0%B0)
+  * <https://github.com/gramdict/gramdict> - современная версия словаря Зализняка
+  * [ОТиПЛ — это кафедра и отделение теоретической и прикладной лингвистики филологического факультета МГУ](http://tipl.philol.msu.ru/)
+  * [Лобанов Борис Мефодьевич](https://obm.bsu.by/matematiki/lobanov-boris-mefodevich/)
