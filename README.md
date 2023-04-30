@@ -29,6 +29,7 @@
   * <https://github.com/Desklop/StressRNN>
   * <https://github.com/nsu-ai/russian_g2p>
   * <https://github.com/nsu-ai-team/russian_g2p_neuro>
+  * <https://github.com/suralmasha/RuTranscript>
   * <http://aot.ru> - Источник словаря Зализняка в машинном формате 
 
 # Предобработка для синтеза
