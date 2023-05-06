@@ -74,6 +74,7 @@
   * <https://github.com/snakers4/silero-models>
   * <https://github.com/marlon-br/neuro-comma>
   * <https://github.com/sviperm/neuro-comma>
+  * <https://github.com/averkij/multipunct>
 
 # История
 
