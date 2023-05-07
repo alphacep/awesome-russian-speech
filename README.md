@@ -29,6 +29,7 @@
   * <https://github.com/Desklop/StressRNN>
   * <https://github.com/nsu-ai/russian_g2p>
   * <https://github.com/nsu-ai-team/russian_g2p_neuro>
+  * <https://github.com/suralmasha/RuTranscript>
   * <http://aot.ru> - Источник словаря Зализняка в машинном формате 
 
 # Ёфикаторы
@@ -70,6 +71,19 @@
 
   * <http://aot.ru>
   * <https://natasha.github.io>
+
+# Пунткуация и заглавные буквы
+
+  * <https://github.com/kotikkonstantin/ru-autopunctuation>
+  * <https://huggingface.co/kontur-ai/sbert_punc_case_ru>
+  * <https://github.com/vlomme/Bert-Russian-punctuation>
+  * <https://github.com/Lesha17/Punctuation>
+  * <https://github.com/gleb-skobinsky/ru_punct>
+  * <https://github.com/sviperm/neuro-comma>
+  * <https://github.com/snakers4/silero-models>
+  * <https://github.com/marlon-br/neuro-comma>
+  * <https://github.com/sviperm/neuro-comma>
+  * <https://github.com/averkij/multipunct>
 
 # История
 
