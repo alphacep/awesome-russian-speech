@@ -31,6 +31,15 @@
   * <https://github.com/nsu-ai-team/russian_g2p_neuro>
   * <http://aot.ru> - Источник словаря Зализняка в машинном формате 
 
+# Ёфикаторы
+
+  * <https://github.com/e2yo/eyo-kernel>
+  * <https://github.com/kalashnikovisme/karamzin>
+  * <https://github.com/link2xt/yoficator>
+  * <https://github.com/Text-extend-tools/python-yoficator>
+  * <https://github.com/emacsmirror/yoficator>
+  * <https://github.com/unabashed/yoficator>
+
 # Предобработка для синтеза
 
   * <https://github.com/sovaai/sova-tts-tps>
