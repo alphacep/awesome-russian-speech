@@ -30,6 +30,7 @@
   * <https://github.com/nsu-ai/russian_g2p>
   * <https://github.com/nsu-ai-team/russian_g2p_neuro>
   * <https://github.com/suralmasha/RuTranscript>
+  * <https://github.com/MashaPo/russtress>
   * <http://aot.ru> - Источник словаря Зализняка в машинном формате 
 
 # Ёфикаторы
