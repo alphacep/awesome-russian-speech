@@ -40,7 +40,7 @@
   * <https://github.com/gramdict/gramdict> - современная версия словаря Зализняка
   * <http://odict.ru/> - другое развитие Зализняка
   * <http://opencorpora.org/> - размеченный морфологический словарь
-  * < https://ru.wiktionary.org> - Wiktionary
+  * <https://ru.wiktionary.org> - Wiktionary
   * <https://kaikki.org/dictionary/Russian/> - дамп wiktionary в удобном формате
 
 # Ёфикаторы
