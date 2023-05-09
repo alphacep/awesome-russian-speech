@@ -31,7 +31,13 @@
   * <https://github.com/nsu-ai-team/russian_g2p_neuro>
   * <https://github.com/suralmasha/RuTranscript>
   * <https://github.com/MashaPo/russtress>
+  * <https://huggingface.co/IlyaGusev/ru-word-stress-transformer>
+
+# Словари
+
+  * <https://github.com/reynoldsnlp/udar/blob/main/src/udar/resources/src/Tixonov.txt> - Морфемно-орфографический словарь Тихонова
   * <http://aot.ru> - Источник словаря Зализняка в машинном формате 
+  * <https://kaikki.org/dictionary/Russian/> - дамп wiktionary в удобном формате
 
 # Ёфикаторы
 
