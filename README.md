@@ -63,6 +63,8 @@
   * <https://github.com/sovaai/sova-tts-tps>
   * <https://github.com/snakers4/silero-models#text-enhancement>
   * <https://github.com/snakers4/russian_stt_text_normalization>
+  * <https://www.kaggle.com/competitions/text-normalization-challenge-russian-language/overview> - старое соревнование на Kaggle
+  * <https://github.com/ppleskov/Text-Normalization-Challenge-Russian-Language> - один из победителей
 
 # Модели для распознавания речи
 
@@ -89,7 +91,7 @@
   * <http://aot.ru>
   * <https://natasha.github.io>
 
-# Пунткуация и заглавные буквы
+# Пунктуация и заглавные буквы
 
   * <https://github.com/kotikkonstantin/ru-autopunctuation>
   * <https://huggingface.co/kontur-ai/sbert_punc_case_ru>
