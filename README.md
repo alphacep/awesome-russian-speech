@@ -111,6 +111,7 @@
   * [Лобанов Борис Мефодьевич](https://obm.bsu.by/matematiki/lobanov-boris-mefodevich/)
   * ИППИ - [Сорокин Виктор Николаевич](https://www.mathnet.ru/rus/person43114)
   * ИПУ РАН [История](http://asmon.ru/ru/node/4)
+  * [Сектор Цифровой Обработки и Распознавания Речевых Сигналов ВЦ РАН](http://www.ccas.ru/DCM/Chichag/index.htm)
  
  ## Alphacep
 
