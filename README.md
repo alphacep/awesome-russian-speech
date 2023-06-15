@@ -51,9 +51,9 @@
 
 # Ёфикаторы
 
+  * <https://github.com/sovaai/sova-tts-tps>
   * <https://github.com/e2yo/eyo-kernel>
   * <https://github.com/kalashnikovisme/karamzin>
-  * <https://github.com/link2xt/yoficator>
   * <https://github.com/Text-extend-tools/python-yoficator>
   * <https://github.com/emacsmirror/yoficator>
   * <https://github.com/unabashed/yoficator>
