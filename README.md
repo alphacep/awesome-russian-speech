@@ -38,6 +38,7 @@
   * <https://github.com/MashaPo/russtress>
   * <https://huggingface.co/IlyaGusev/ru-word-stress-transformer>
   * <https://github.com/aishutin/rustress>
+  * <https://github.com/Koziev/StressModel>
 
 # Словари
 
