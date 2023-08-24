@@ -24,6 +24,17 @@
   * <https://github.com/alphacep/vosk-tts>
   * <https://github.com/RHVoice>
   * <https://github.com/snakers4/silero-models#text-to-speech>
+  * <https://github.com/Tera2Space/RUTTS>
+
+# Общая предобработка для синтеза
+
+  * <https://github.com/sovaai/sova-tts-tps>
+  * <https://github.com/snakers4/silero-models#text-enhancement>
+  * <https://github.com/snakers4/russian_stt_text_normalization>
+  * <https://www.kaggle.com/competitions/text-normalization-challenge-russian-language/overview> - старое соревнование на Kaggle
+  * <https://github.com/ppleskov/Text-Normalization-Challenge-Russian-Language> - один из победителей
+
+  * <https://github.com/Den4ikAI/ruaccent> - ёфикатор, ударение и разрешение омографов
 
 # Расстановка ударений, фонетические словари и g2p
 
@@ -58,14 +69,6 @@
   * <https://github.com/Text-extend-tools/python-yoficator>
   * <https://github.com/emacsmirror/yoficator>
   * <https://github.com/unabashed/yoficator>
-
-# Предобработка для синтеза
-
-  * <https://github.com/sovaai/sova-tts-tps>
-  * <https://github.com/snakers4/silero-models#text-enhancement>
-  * <https://github.com/snakers4/russian_stt_text_normalization>
-  * <https://www.kaggle.com/competitions/text-normalization-challenge-russian-language/overview> - старое соревнование на Kaggle
-  * <https://github.com/ppleskov/Text-Normalization-Challenge-Russian-Language> - один из победителей
 
 # Модели для распознавания речи
 
