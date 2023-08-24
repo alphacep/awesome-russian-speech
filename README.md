@@ -5,6 +5,7 @@
   * <https://t.me/speech_recognition_ru> - группа "Распознавание речи"
   * <https://t.me/speech_recognition> - группа на английском языке
   * <https://t.me/speechtech> - канал новостей
+  * <https://t.me/betterdatacommunity/15> - сообщество speech в datacommunity
 
 # Данные для обучения
 
