@@ -6,6 +6,8 @@
   * <https://t.me/speech_recognition> - группа на английском языке
   * <https://t.me/speechtech> - канал новостей
   * <https://t.me/betterdatacommunity/15> - сообщество speech в datacommunity
+  * <https://t.me/voicestuff> <https://t.me/voice_stuff_chat> - Frappuchino's space
+  * <https://t.me/TeraSpace> <https://t.me/teraspace_chat> - Tera's space
 
 # Данные для обучения
 
