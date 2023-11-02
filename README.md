@@ -25,7 +25,7 @@
   * <https://github.com/alphacep/vosk-tts>
   * <https://github.com/RHVoice>
   * <https://github.com/snakers4/silero-models#text-to-speech>
-  * <https://github.com/Tera2Space/RUTTS>
+  * <https://github.com/Tera2Space/TeraTTS>
 
 # Общая предобработка для синтеза
 
