@@ -111,7 +111,7 @@
   * <https://github.com/marlon-br/neuro-comma>
   * <https://github.com/sviperm/neuro-comma>
   * <https://github.com/averkij/multipunct>
-  * <https://github.com/denis-berezutskiy-lad/transcription-bert-ru-punctuator-scripts> [https://huggingface.co/denis-berezutskiy-lad/lad_transcription_bert_ru_punctuator](HuggingFace)
+  * <https://github.com/denis-berezutskiy-lad/transcription-bert-ru-punctuator-scripts> [HuggingFace](https://huggingface.co/denis-berezutskiy-lad/lad_transcription_bert_ru_punctuator)
 
 # История
 
