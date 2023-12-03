@@ -9,6 +9,12 @@
   * <https://t.me/voicestuff> <https://t.me/voice_stuff_chat> - Frappuchino's space
   * <https://t.me/TeraSpace> <https://t.me/teraspace_chat> - Tera's space
 
+# Курсы
+
+  * <https://github.com/markovka17/dla>
+  * <https://github.com/yandexdataschool/speech_course>
+  * <https://github.com/severilov/DL-Audio-Course>
+
 # Данные для обучения
 
   * <https://github.com/salute-developers/golos>
