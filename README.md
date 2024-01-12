@@ -80,6 +80,12 @@
   * <https://github.com/emacsmirror/yoficator>
   * <https://github.com/unabashed/yoficator>
 
+# Распознавание эмоций
+
+ * <https://github.com/aniemore/Aniemore>
+ * <https://huggingface.co/xbgoose/hubert-large-speech-emotion-recognition-russian-dusha-finetuned>
+ * <https://github.com/salute-developers/golos/tree/master/dusha>
+
 # Модели для распознавания речи
 
 Сравнение моделей [тут](https://alphacephei.com/nsh/2023/01/22/russian-models.html).
