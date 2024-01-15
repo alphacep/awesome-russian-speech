@@ -43,6 +43,7 @@
   * <https://www.kaggle.com/competitions/text-normalization-challenge-russian-language/overview> - старое соревнование на Kaggle
   * <https://github.com/ppleskov/Text-Normalization-Challenge-Russian-Language> - один из победителей
   * <https://github.com/shigabeev/russian_tts_normalization>
+  * <https://github.com/saarus72/text_normalization/tree/dev> - на основе Fred-T5
 
   * <https://github.com/Den4ikAI/ruaccent> - ёфикатор, ударение и разрешение омографов
 
