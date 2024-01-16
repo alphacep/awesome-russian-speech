@@ -35,6 +35,13 @@
   * <https://github.com/snakers4/silero-models#text-to-speech>
   * <https://github.com/Tera2Space/TeraTTS>
 
+# Преобразования голоса
+
+ * <https://www.weights.gg/ru> - куча моделей для RVC
+ * <https://2ch-ai.gitgud.site/wiki/speech/> - школота да дваче
+ * <https://lunaiproject.uwu.ai/> - русский DiffSinger
+ + есть куча телеграм каналов, в основном мутной направленности
+
 # Общая предобработка для синтеза
 
   * <https://github.com/sovaai/sova-tts-tps>
