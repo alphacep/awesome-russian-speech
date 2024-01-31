@@ -121,8 +121,10 @@
 
 # Пунктуация и заглавные буквы
 
-  * <https://github.com/kotikkonstantin/ru-autopunctuation>
+  * <https://alphacephei.com/vosk/models/vosk-recasepunc-en-0.22.zip>
   * <https://huggingface.co/kontur-ai/sbert_punc_case_ru>
+    
+  * <https://github.com/kotikkonstantin/ru-autopunctuation>
   * <https://github.com/vlomme/Bert-Russian-punctuation>
   * <https://github.com/Lesha17/Punctuation>
   * <https://github.com/gleb-skobinsky/ru_punct>
