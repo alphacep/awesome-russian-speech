@@ -14,6 +14,7 @@
   * <https://github.com/markovka17/dla>
   * <https://github.com/yandexdataschool/speech_course>
   * <https://github.com/severilov/DL-Audio-Course>
+  * <https://huggingface.co/learn/audio-course/ru/chapter0/introduction> - поиграться со звуковыми моделями HF
 
 # Данные для обучения
 
