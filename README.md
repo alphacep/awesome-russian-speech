@@ -35,6 +35,7 @@
   * <https://github.com/RHVoice>
   * <https://github.com/snakers4/silero-models#text-to-speech>
   * <https://github.com/Tera2Space/TeraTTS>
+  * <https://huggingface.co/omogr/xtts-ru-ipa>
 
 # Преобразования голоса
 
@@ -69,6 +70,7 @@
   * <https://huggingface.co/IlyaGusev/ru-word-stress-transformer>
   * <https://github.com/aishutin/rustress>
   * <https://github.com/Koziev/StressModel>
+  * <https://github.com/omogr/omogre>
 
 # Словари
 
