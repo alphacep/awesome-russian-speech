@@ -138,6 +138,7 @@
   * <https://github.com/sviperm/neuro-comma>
   * <https://github.com/averkij/multipunct>
   * <https://github.com/denis-berezutskiy-lad/transcription-bert-ru-punctuator-scripts> [HuggingFace](https://huggingface.co/denis-berezutskiy-lad/lad_transcription_bert_ru_punctuator)
+  * <https://huggingface.co/ai-forever/sage-fredt5-distilled-95m> - набор моделей SAGE
 
 # История
 
