@@ -15,6 +15,7 @@
   * <https://github.com/yandexdataschool/speech_course>
   * <https://github.com/severilov/DL-Audio-Course>
   * <https://huggingface.co/learn/audio-course/ru/chapter0/introduction> - поиграться со звуковыми моделями HF
+  * <https://www.youtube.com/playlist?list=PLYG3WHDP5CWVRxLjXZbllqIQTWY_QjKmz> - Deep Learning for Audio
 
 # Данные для обучения
 
