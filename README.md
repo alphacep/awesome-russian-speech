@@ -55,6 +55,7 @@
   * <https://github.com/shigabeev/russian_tts_normalization>
   * <https://github.com/saarus72/text_normalization/tree/dev> - на основе Fred-T5
   * <https://github.com/Den4ikAI/runorm> - числа в текст, обработка английских слов, раскрытие сокращений
+  * <https://github.com/just-ai/multilingual-text-parser>
 
 
 # Расстановка ударений, фонетические словари и g2p
