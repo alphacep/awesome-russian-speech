@@ -38,6 +38,11 @@
   * <https://github.com/Tera2Space/TeraTTS>
   * <https://huggingface.co/omogr/xtts-ru-ipa>
 
+## Дообучение F5
+
+  * <https://huggingface.co/hotstone228/F5-TTS-Russian>
+  * <https://huggingface.co/TVI/f5-tts-ru-accent>
+
 # Преобразования голоса
 
  * <https://www.weights.gg/ru> - куча моделей для RVC
@@ -58,6 +63,9 @@
   * <https://github.com/just-ai/multilingual-text-parser>
   * <https://github.com/Balamoote/tts-scripts> - куча скриптов awk и данных для озвучки книг
 
+# Мультимодальные LLM
+
+  * <https://huggingface.co/spaces/Vikhrmodels/salt>
 
 # Расстановка ударений, фонетические словари и g2p
 
@@ -100,6 +108,7 @@
  * <https://github.com/aniemore/Aniemore>
  * <https://huggingface.co/xbgoose/hubert-large-speech-emotion-recognition-russian-dusha-finetuned>
  * <https://github.com/salute-developers/golos/tree/master/dusha>
+ * <https://huggingface.co/datasets/Aniemore/resd_annotated>
 
 # Модели для распознавания речи
 
