@@ -42,6 +42,7 @@
 
   * <https://huggingface.co/hotstone228/F5-TTS-Russian>
   * <https://huggingface.co/TVI/f5-tts-ru-accent>
+  * <https://huggingface.co/Misha24-10/F5-TTS_RUSSIAN>
 
 # Преобразования голоса
 
