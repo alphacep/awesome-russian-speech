@@ -26,6 +26,12 @@
   * <https://www.openslr.org/96/> - Russian Librispeech
   * <https://commonvoice.mozilla.org/ru/datasets> - MCV
 
+  * <https://huggingface.co/datasets/Vikhrmodels/ToneWebinars>
+  * <https://huggingface.co/datasets/Vikhrmodels/ToneBooks>
+  * <https://huggingface.co/datasets/Aniemore/resd_annotated>
+  * <https://huggingface.co/datasets/its5Q/biggest-ru-book>
+  * <https://huggingface.co/datasets/bond005/podlodka_speech> - longform
+
 # Синтез речи
 
   * <https://www.caito.de/2019/01/03/the-m-ailabs-speech-dataset/> - M-AILabs dataset (from Librivox)
