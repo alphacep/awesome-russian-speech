@@ -2,12 +2,15 @@
 
 # Общение
 
-  * <https://t.me/speech_recognition_ru> - группа "Распознавание речи"
+  * <https://t.me/speech_recognition_ru> - группа "Распознавание речи"https://vk.com/wall-60965453_4348111
   * <https://t.me/speech_recognition> - группа на английском языке
   * <https://t.me/speechtech> - канал новостей
   * <https://t.me/betterdatacommunity/15> - сообщество speech в datacommunity
   * <https://t.me/voicestuff> <https://t.me/voice_stuff_chat> - Frappucсino's space
   * <https://t.me/TeraSpace> <https://t.me/teraspace_chat> - Tera's space
+  * <https://t.me/applied_scientist_blog> - Анна, speech LLM в Amazon
+  * <https://t.me/SpeechAIPro> - Виктор Загускин (MTS)
+  * <https://t.me/speechinfo> - Инженеры из Яндекса разбирают и комментируют горячие статьи об ML и аудио.
 
 # Курсы
 
