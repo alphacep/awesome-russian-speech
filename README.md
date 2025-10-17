@@ -43,7 +43,6 @@
   * <https://huggingface.co/bene-ges/tts_ru_hifigan_ruslan>
   * <https://github.com/alphacep/vosk-tts>
   * <https://github.com/RHVoice>
-  * <https://github.com/snakers4/silero-models#text-to-speech>
   * <https://github.com/Tera2Space/TeraTTS>
   * <https://huggingface.co/omogr/xtts-ru-ipa>
 
@@ -63,7 +62,6 @@
 # Общая предобработка для синтеза
 
   * <https://github.com/sovaai/sova-tts-tps>
-  * <https://github.com/snakers4/silero-models#text-enhancement>
   * <https://github.com/snakers4/russian_stt_text_normalization>
   * <https://www.kaggle.com/competitions/text-normalization-challenge-russian-language/overview> - старое соревнование на Kaggle
   * <https://github.com/ppleskov/Text-Normalization-Challenge-Russian-Language> - один из победителей
@@ -155,7 +153,6 @@
   * <https://github.com/Lesha17/Punctuation>
   * <https://github.com/gleb-skobinsky/ru_punct>
   * <https://github.com/sviperm/neuro-comma>
-  * <https://github.com/snakers4/silero-models>
   * <https://github.com/marlon-br/neuro-comma>
   * <https://github.com/sviperm/neuro-comma>
   * <https://github.com/averkij/multipunct>
