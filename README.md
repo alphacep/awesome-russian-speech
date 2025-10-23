@@ -37,6 +37,8 @@
 
 # Синтез речи
 
+  * <https://huggingface.co/datasets/ESpeech/ESpeech-podcasts/> - Espeech podcasts - 3200 hours
+  * <https://huggingface.co/datasets/ESpeech/ESpeech-webinars2/> - Espeech webinars - 800 hours
   * <https://www.caito.de/2019/01/03/the-m-ailabs-speech-dataset/> - M-AILabs dataset (from Librivox)
   * <https://ruslan-corpus.github.io/>
   * <https://github.com/sovaai/sova-tts>
