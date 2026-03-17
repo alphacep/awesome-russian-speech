@@ -140,6 +140,7 @@
 Не тестировались (похуже качеством)
 
   * <https://github.com/sovse/base_rus_whisper_stt>
+  * GigaAM <https://github.com/salute-developers/GigaAM>
 
 # Лингвистика (списки слов, морфология)
 
