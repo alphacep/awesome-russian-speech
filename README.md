@@ -121,6 +121,10 @@
  * <https://github.com/salute-developers/golos/tree/master/dusha>
  * <https://huggingface.co/datasets/Aniemore/resd_annotated>
 
+# Облачные API распознавания речи
+
+  * [Palatine Speech](https://speech.palatine.ru/) — российская облачная платформа и OpenAI-совместимый API для распознавания речи, диаризации, таймкодов, субтитров, перевода и суммаризации. Также развивается локальное приложение [Palatine Murmur 0.4.0](https://speech.palatine.ru/) для записи и транскрипции встреч, доступное для macOS, Windows и Linux.
+
 # Модели для распознавания речи
 
 Сравнение моделей [тут](https://alphacephei.com/nsh/2023/01/22/russian-models.html).
