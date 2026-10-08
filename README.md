@@ -73,6 +73,8 @@
   * <https://github.com/just-ai/multilingual-text-parser>
   * <https://github.com/Balamoote/tts-scripts> - куча скриптов awk и данных для озвучки книг
   * <https://github.com/NickZaitsev/ru-normalizr> - преобразователь на регулярных выражениях
+  * <https://github.com/rekurt/chislo> - числа, денежные суммы, даты и время прописью на русском языке (Rust)
+  * <https://github.com/rekurt/go-propisyu> - целые и десятичные числа, денежные суммы и порядковые числительные прописью на русском языке (Go)
 
 # Мультимодальные LLM
 
