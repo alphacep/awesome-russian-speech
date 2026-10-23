@@ -125,6 +125,8 @@
 
 Сравнение моделей [тут](https://alphacephei.com/nsh/2023/01/22/russian-models.html).
 
+  * <https://github.com/meshoklv/ru-speech-bench> - замеры движков TTS, STT и детекции конца реплики для русского: железо, скрипты, сырые цифры и лицензии
+
   * Vosk Small <https://alphacephei.com/vosk/models/vosk-model-small-ru-0.22.zip>
   * Vosk Big 0.22 <https://alphacephei.com/vosk/models/vosk-model-ru-0.22.zip>
   * Vosk Big 0.42 <https://alphacephei.com/vosk/models/vosk-model-ru-0.42.zip>
