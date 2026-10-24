@@ -14,6 +14,7 @@
 
 # Курсы
 
+  * <https://github.com/AntonOkhotnikov/ai-talent-hub-itmo-speech-course>
   * <https://github.com/markovka17/dla>
   * <https://github.com/yandexdataschool/speech_course>
   * <https://github.com/severilov/DL-Audio-Course>
