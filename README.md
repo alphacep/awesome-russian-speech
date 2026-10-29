@@ -48,6 +48,7 @@
   * <https://github.com/RHVoice>
   * <https://github.com/Tera2Space/TeraTTS>
   * <https://huggingface.co/omogr/xtts-ru-ipa>
+  * <https://huggingface.co/Superclonica/superclonica> - SuperClonica: движок под Apache-2.0 для открытой модели Supertonic 3 (31 язык, включая русский; CPU или CUDA), бесплатные голоса, в том числе записанные на русском: <https://github.com/superclonica/supertonic-voices>
 
 ## Дообучение F5
 
